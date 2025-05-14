@@ -33,7 +33,7 @@ Example: A laptop that runs Windows or macOS is a computer. It takes input from 
 * Hardware: Physical components like CPU, RAM, hard disk, keyboard
 * Software: Programs that run on hardware like web browsers, operating systems, games
 
-![Hardware vs Software](https://www.cyber.gov.au/sites/default/files/2021-11/hardware-software.png)
+![Hardware vs Software](Images/hardwarevssoftware.jpg)
 
 ### Input/Output Devices
 
@@ -73,14 +73,14 @@ Example: When you save a Word file, it's stored on your hard drive using a file 
 
 ## Recommended Certifications
 
-### [CompTIA IT Fundamentals (ITF+)](https://www.comptia.org/certifications/it-fundamentals)
+### <a href="https://www.comptia.org/certifications/it-fundamentals"><u>CompTIA IT Fundamentals (ITF+)</u></a>
 
-* Entry-level certification for absolute beginners
+* Entry-level certification for absolute beginners  
 * Covers basic IT literacy, hardware, software, OS, and networking
 
-### [CompTIA A+](https://www.comptia.org/certifications/a)
+### <a href="https://www.comptia.org/certifications/a"><u>CompTIA A+</u></a>
 
-* Ideal for those moving from IT support to cybersecurity
+* Ideal for those moving from IT support to cybersecurity  
 * Covers troubleshooting, networking, OS, security, and operational procedures
 
 ---
