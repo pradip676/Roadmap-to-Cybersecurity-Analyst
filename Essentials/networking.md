@@ -34,7 +34,7 @@ A network is a group of two or more computers connected to share data or resourc
 Example: At home, your phone, laptop, and smart TV are likely connected to the same Wi-Fi network.
 
 ### LAN, WAN, MAN and PAN
-![Types of Networks](Images/typesofnetworks.png)
+![Types of Networks](../Images/typesofnetworks.png)
 
 * **LAN** (Local Area Network): Covers a small area like a home or office
 * **WAN** (Wide Area Network): Spans a large geographic area (e.g., the internet)
@@ -49,7 +49,7 @@ Example: `192.168.1.1` is a common default IP address for routers.
 
 ### OSI Model (7 Layers)
 
-![OSI Model Layers](Images/osiModel.webp)
+![OSI Model Layers](../Images/osiModel.webp)
 
 The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and implement networking protocols in seven layers:
 
@@ -67,7 +67,7 @@ Understanding OSI layers helps in troubleshooting and identifying which stage a 
 
 The TCP/IP model is a simplified 4-layer framework used in practical networking today:
 
-![TCP/IP vs OSI](Images/tcp-ip.png)
+![TCP/IP vs OSI](../Images/tcp-ip.png)
 
 
 1. **Link Layer** – Combines OSI's Physical and Data Link layers, handling device-to-device data delivery.
