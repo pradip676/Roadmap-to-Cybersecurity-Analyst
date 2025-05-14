@@ -33,7 +33,7 @@ Example: A laptop that runs Windows or macOS is a computer. It takes input from 
 * Hardware: Physical components like CPU, RAM, hard disk, keyboard
 * Software: Programs that run on hardware like web browsers, operating systems, games
 
-![Hardware vs Software](Images/hardwarevssoftware.jpg)
+![Hardware vs Software](../Images/hardwarevssoftware.jpg)
 
 ### Input/Output Devices
 
