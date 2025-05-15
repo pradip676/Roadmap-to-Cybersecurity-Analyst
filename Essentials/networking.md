@@ -25,7 +25,7 @@ Networking is the practice of connecting computers and other devices to share re
 
 ---
 
-## Beginner-Friendly Explanations
+##  Explanations
 
 ### What is a Network?
 
