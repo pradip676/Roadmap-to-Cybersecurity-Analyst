@@ -11,6 +11,7 @@ Cybersecurity involves applying policies, technologies, and practices to defend 
 ---
 
 ## Core Security Objectives (CIA Triad)
+![CIA Triad](../Images/ciatriad.jpg)
 
 ### 1. **Confidentiality**
 
