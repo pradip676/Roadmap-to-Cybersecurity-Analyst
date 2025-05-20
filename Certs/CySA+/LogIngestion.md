@@ -10,7 +10,7 @@
 
 Log ingestion is the process of collecting and centralizing log data from various systems and devices. It is foundational in security operations because it enables continuous monitoring, correlation, and analysis of data that can indicate security events or breaches. Effective log ingestion ensures that relevant data from across the IT infrastructure is captured in a centralized location such as a Security Information and Event Management (SIEM) system.
 
-![log ingestion](../Images/log1.png)
+![log ingestion](../images/log1.png)
 
 ---
 
