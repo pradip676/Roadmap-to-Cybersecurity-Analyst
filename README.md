@@ -6,8 +6,8 @@ echo "Welcome to the Cybersecurity Journey!"
 
 ## Introduction
 
-Please check [Introduction](Introduction.md) for general information about this roadmap.
-Please check [Contributing](CONTRIBUTING.md) for contributing guidelines.
+* Please check [INTRODUCTION](INTRODUCTION.md) for general information about this roadmap.
+* Please check [CONTRIBUTING](CONTRIBUTION.md) for contributing guidelines.
 
 ---
 
