@@ -16,15 +16,15 @@ echo "Welcome to the Cybersecurity Journey!"
 ### Essentials
 
 * [IT Fundamentals](Essentials/IT-Fundamentals.md)
-* [Operating Systems](essentials/operating-systems.md)
-* [Networking](essentials/networking.md)
-* [Basic Scripting](essentials/basic-scripting.md)
-* [Basics of Cybersecurity](essentials/basics-of-cybersecurity.md)
+* [Operating Systems](Essentials/operating-systems.md)
+* [Networking](Essentials/networking.md)
+* [Basic Scripting](Essentials/basic-scripting.md)
+* [Basics of Cybersecurity](Essentials/basics-of-cybersecurity.md)
 
 ### Projects
 
-* [Home Lab Setup](projects/home-lab-setup.md)
-* [Beginner Projects](projects/beginner-projects.md)
+* [Home Lab Setup](Projects/home-lab-setup.md)
+* [Beginner Projects](Projects/beginner-projects.md)
 
 ### Tools
 
