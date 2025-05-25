@@ -37,6 +37,9 @@ echo "Welcome to the Cybersecurity Journey!"
 ### CySA+ (CompTIA Cybersecurity Analyst)
 
 * [Official Syllabus (PDF)](Certs/CySA+/syllabus.pdf)
+  
+#### Course Contents
+
 * [Log Ingestion](Certs/CySA+/LogIngestion.md)
 
 
