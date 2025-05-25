@@ -15,7 +15,7 @@ echo "Welcome to the Cybersecurity Journey!"
 
 ### Essentials
 
-* [IT Fundamentals](essentials/IT-Fundamentals.md)
+* [IT Fundamentals](Essentials/IT-Fundamentals.md)
 * [Operating Systems](essentials/operating-systems.md)
 * [Networking](essentials/networking.md)
 * [Basic Scripting](essentials/basic-scripting.md)
