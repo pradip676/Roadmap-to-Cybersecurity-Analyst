@@ -55,7 +55,6 @@ Installed Debian 12 (Bookworm) using a bootable USB.
 cat /etc/os-release
 ```
 
-📸 _Screenshot placeholder: Debian terminal or OS confirmation screen_  
 → ![Debian Install](../../Images/home-server/install-debian.png)
 
 ---
@@ -72,7 +71,6 @@ sudo apt update
 sudo apt install proxmox-ve postfix open-iscsi -y
 ```
 
-📸 _Screenshot placeholder: Proxmox dashboard showing `proxmox2` node_  
 → ![Proxmox UI](../../Images/home-server/proxmox-dashboard.png)
 
 ---
@@ -99,8 +97,7 @@ Used Proxmox’s "Create VM" wizard to set up:
 - ✅ Windows 10 (for malware or blue team analysis)
 
 Snapshots and isolated networks created for lab use.
-
-📸 _Screenshot placeholder: VM list view in sidebar_  
+ 
 → ![VM List](../../Images/home-server/vm-list.png)
 
 ---
@@ -128,7 +125,6 @@ Plan: Configure router to forward:
 
 Then use **Let's Encrypt (ACME)** to secure the web interface.
 
-📸 _Screenshot placeholder: Router config and Proxmox ACME tab_
 
 ---
 
