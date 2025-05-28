@@ -12,11 +12,7 @@ This guide documents how I turned an unused laptop into a powerful Proxmox-based
 
 ---
 
-## 🖼️ Hardware Setup Overview
-
-Here’s a look at the physical setup of the $0 home server lab:
-
-## 🖼️ Hardware Setup Overview
+## Hardware Setup Overview
 
 Here’s a look at the physical setup of the $0 home server lab, built using minimal resources and maximum optimization.
 
@@ -119,9 +115,6 @@ funkyy.duckdns.org
 
 Link it to public IP for remote access.
 
-📸 _Screenshot placeholder: DuckDNS setup panel_  
-→ ![DuckDNS](../../Images/home-server/duckdns-setup.png)
-
 ---
 
 ### 6️⃣ [Planned] Port Forwarding and SSL
@@ -149,4 +142,4 @@ Then use **Let's Encrypt (ACME)** to secure the web interface.
 ---
 
 
-> ✅ Work in Progress — DuckDNS and Let's Encrypt configuration to be added soon.
+> Work in Progress — DuckDNS and Let's Encrypt configuration to be added soon.
