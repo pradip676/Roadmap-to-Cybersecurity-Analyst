@@ -17,7 +17,7 @@ This guide documents how I turned an unused laptop into a powerful Proxmox-based
 Here’s a look at the physical setup of the $0 home server lab, built using minimal resources and maximum optimization.
 
 ### 📷 Lab Overview
-![Setup Overview](../../Images/home-server/setup-overview.png)
+![Setup Overview](/Images/home-server/setup-overview.png)
 
 - The laptop on the **right** is used as the **main Proxmox host**, running Debian with Proxmox VE installed.
 - It is connected to the router using a **direct Ethernet cable**, which ensures a stable, low-latency connection necessary for VM hosting and remote access.
