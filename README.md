@@ -24,6 +24,7 @@ echo "Welcome to the Cybersecurity Journey!"
 ### Projects
 
 * [Home Lab Setup](Projects/home-lab-setup.md)
+* [$0 Home Server](Projects/$0%20Home%20Server/home-server.md)
 * [Beginner Projects](Projects/beginner-projects.md)
 
 ### Tools
