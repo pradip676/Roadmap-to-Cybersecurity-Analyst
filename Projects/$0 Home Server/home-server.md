@@ -71,8 +71,6 @@ sudo apt update
 sudo apt install proxmox-ve postfix open-iscsi -y
 ```
 
-→ ![Proxmox UI](../../Images/home-server/proxmox-dashboard.png)
-
 ---
 
 ### 3️⃣ Proxmox Web Access via Local IP
@@ -80,7 +78,7 @@ sudo apt install proxmox-ve postfix open-iscsi -y
 Accessed Proxmox from browser on local network:
 
 ```
-https://192.168.1.40:8006
+https://ip address:port
 ```
 
 Accepted the self-signed certificate warning.
@@ -120,8 +118,8 @@ Plan: Configure router to forward:
 
 | External Port | Internal IP     | Port | Use Case        |
 |---------------|------------------|------|------------------|
-| 80            | 192.168.1.40     | 80   | HTTP + ACME      |
-| 443           | 192.168.1.40     | 443  | HTTPS (Proxmox)  |
+| 80            | ip addr     | 80   | HTTP + ACME      |
+| 443           | ip addr     | 443  | HTTPS (Proxmox)  |
 
 Then use **Let's Encrypt (ACME)** to secure the web interface.
 
